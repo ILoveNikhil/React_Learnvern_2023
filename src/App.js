@@ -1,6 +1,6 @@
 
 import './App.css';
-import Subscription, {/* date , title, amount */} from './Components/Subscription';
+import Subscription, {/* date , title, amount */} from './Components/Subscription/Subscription';
  
 
 function App() {
